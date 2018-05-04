@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/raw/mraid.js",
+        "source": "/Users/souravbanik/.android/build-cache/9c8a2606f211a7655b95383ee7c864a92376efd7/output/res/raw/mraid.js"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/raw/customevent.js",
+        "source": "/Users/souravbanik/.android/build-cache/9c8a2606f211a7655b95383ee7c864a92376efd7/output/res/raw/customevent.js"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/raw/vdo_vast.xml",
+        "source": "/Users/souravbanik/.android/build-cache/9c8a2606f211a7655b95383ee7c864a92376efd7/output/res/raw/vdo_vast.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/raw/sspdev.cer",
+        "source": "/Users/souravbanik/.android/build-cache/9c8a2606f211a7655b95383ee7c864a92376efd7/output/res/raw/sspdev.cer"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/raw/sspprod.cer",
+        "source": "/Users/souravbanik/.android/build-cache/9c8a2606f211a7655b95383ee7c864a92376efd7/output/res/raw/sspprod.cer"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/raw/vdo_inter.xml",
+        "source": "/Users/souravbanik/.android/build-cache/9c8a2606f211a7655b95383ee7c864a92376efd7/output/res/raw/vdo_inter.xml"
+    }
+]

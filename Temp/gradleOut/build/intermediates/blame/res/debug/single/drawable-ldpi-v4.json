@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-ldpi-v4/vdopia_ic_exit_fullscreen_white.png",
+        "source": "/Users/souravbanik/.android/build-cache/9c8a2606f211a7655b95383ee7c864a92376efd7/output/res/drawable-ldpi-v4/vdopia_ic_exit_fullscreen_white.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_pause.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_rewind.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_play.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_previous.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_next.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/res/merged/debug/drawable-ldpi-v4/vdopia_ic_enter_fullscreen_white.png",
+        "source": "/Users/souravbanik/.android/build-cache/9c8a2606f211a7655b95383ee7c864a92376efd7/output/res/drawable-ldpi-v4/vdopia_ic_enter_fullscreen_white.png"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/souravbanik/.android/build-cache/9c8a2606f211a7655b95383ee7c864a92376efd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="47d037afe481d7f90db3e1fd37334c02f261ed99">
+        <dex dex="/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27200bfe88fd4e056724f5ce249565fca4f1d982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9f3d3e32cdd44fcbf515f2825f68c63f2549e6b6">
+        <dex dex="/Users/souravbanik/Downloads/Unity_rewarded-master/unity3d_interstitial/Temp/gradleOut/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_6b505895dc7e35f5c5d957c9d02b7b9dac806292/classes.dex" />
+    </item>
+
+</items>
